@@ -1,6 +1,6 @@
 # Positional Tracking System with Microcontroller  
 
-![illustration](acquisition_system1.png)
+![illustration](acquisition_system.png)
 
 This project focuses on developing a system that measures and graphically represents human displacement in real time. It is based on the Microchip PIC18F47Q10 microcontroller, the MMA7361L accelerometer, and MATLAB for data processing and visualization.  
 
